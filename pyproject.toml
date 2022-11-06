@@ -1,0 +1,19 @@
+[project]
+name = "cryptis-esiea"
+version = "0.0.1"
+authors = [
+  { name="LyGolv (Lioguy)", email="vianel.lioguy@example.com" },
+    { name="Toukep", email="toukepkamo@et.esiea.fr"}
+]
+description = "A cryptograpy project given at school, base on the real criptris game. You can consider this as a reproduction with python language"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
